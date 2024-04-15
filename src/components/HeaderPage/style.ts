@@ -6,6 +6,7 @@ export const styles = StyleSheet.create({
     backgroundColor: '#2E2938',
     justifyContent: 'center',
     alignItems: 'center',
+    alignContent: 'space-between'
   },
   logoTitle: {
     color: '#fff',
