@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "BykeShare",
-    "slug": "BykeShare",
+    "name": "bikeShareDAM",
+    "slug": "bikeShareDAM",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
